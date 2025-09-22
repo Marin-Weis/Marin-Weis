@@ -8,8 +8,8 @@
 
 ## 🚀 Technical Skills  
 
-- **Programming Languages**: C, C++, Java, Python, JavaScript, SQL  
-- **Web Development**: HTML, CSS, React, Node.js, Express  
+- **Programming Languages**: Java, Python, C, bash  
+- **Web Development**: HTML, CSS, React, JavaScript, Php  
 - **Databases**: MySQL, PostgreSQL, MongoDB  
 - **Tools & Methodologies**: Git/GitHub, Docker, Linux, Agile/Scrum  
 
@@ -17,7 +17,7 @@
 
 ## 📂 Projects  
 
-### 🔹 [Project Name 1]  
+### 🔹 Développement application 
 - Short description of the project (goal, technologies used)  
 - What you learned or implemented  
 
@@ -39,10 +39,7 @@
 
 ## 📫 Contact  
 
-- 📧 Email: [your.email@example.com]  
-- 💼 LinkedIn: [Your LinkedIn Profile]  
+- 📧 Email: marin.weis@gmail.com
+- 💼 LinkedIn: https://fr.linkedin.com/in/marin-weis-22143a353
 - 🌐 Portfolio (optional): [Your personal website]  
 
----
-
-✨ Thanks for visiting my profile! Feel free to check out my projects and reach out.
