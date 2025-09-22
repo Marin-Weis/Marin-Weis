@@ -17,7 +17,7 @@
 
 ## 📂 Projects  
 
-### 🔹 Développement application 
+### 🔹 [Développement application]
 - Short description of the project (goal, technologies used)  
 - What you learned or implemented  
 
