@@ -1,8 +1,8 @@
-# 👋 Hi, I'm [Your First Name]  
+# 👋 Hi, I'm Marin Weis
 
 🎓 2nd year **Computer Science undergraduate (BUT Informatique)** at [Your University/IUT].  
 💻 Passionate about software development, distributed systems, and applied computer science.  
-🌍 Currently seeking an **internship in Malta** for [Month Year – Month Year].  
+🌍 Currently seeking an **internship in Malta** for 14/04/2026 to 19/06/2026.  
 
 ---
 
