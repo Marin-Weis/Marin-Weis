@@ -21,10 +21,11 @@
 ## 📂 Projects  
 
 ### 🔹 First Aid Application
-- **Description:** Major end-of-first-year project developed as part of a team of four. The application allows rescuers to register, declare their skills (PSE1, PSE2, SSA, etc.), and view assigned deployments (DPS). Administrators manage rescuers' competencies and automatically assign deployments using an algorithm based on skills and availability. All operations are connected to a secure database.  
-- **Technologies used:** Java/ MySQL / javaFx/ xml 
+- **Description:** Major end-of-first-year project developed as part of a team of four (Arthur Jan, Mathieu Gouelo, Nolann Lescop, and myself). The application allows rescuers to register, declare their skills (PSE1, PSE2, SSA, etc.), and view assigned deployments (DPS). Administrators manage rescuers' competencies and automatically assign deployments using an algorithm based on skills and availability. All operations are connected to a secure database.  
+- **Technologies used:** Java / MySQL / JavaFX / XML  
 - **What I learned:** Team collaboration, CRUD operations, database management, implementing an assignment algorithm, and full-stack development.  
-- **Demo / Repo:** https://github.com/Marin-Weis/PROJECT-First-aid-application
+- **Demo / Repo:** [GitHub Repository](https://github.com/Marin-Weis/PROJECT-First-aid-application)
+
 
 ## 🌱 Current Goals  
 
