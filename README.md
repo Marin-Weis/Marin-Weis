@@ -2,7 +2,9 @@
 
 🎓 2nd-year **Computer Science** student (BUT Informatique) at IUT of Vannes, affiliated with Université Bretagne Sud (UBS).                                                  
 💻 Passionate about software development, distributed systems, and applied computer science.  
-🌍 Currently seeking an **internship** for 13/04/2026 to 19/06/2026.  
+🌍 Currently seeking an **internship** for 13/04/2026 to 19/06/2026.
+
+💼 **My portfolio:** https://marin-weis.github.io/
 
 ---
 
@@ -15,8 +17,9 @@
 - **Network** : TCP/IP, DNS, DHCP, HTTP
 - **Software** : Intelij, VsCode, Eclipse, Geany
 - **Office Tools** : Word, Excel, PowerPoint
-
+  
 ---
+
 
 ## 📂 Projects  
 
